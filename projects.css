@@ -1,0 +1,12 @@
+
+.titleProjects{
+text-align:center;
+
+}
+.titleProjects h1{
+    border-bottom:2px solid red;
+}
+.col-md-4 img{
+    height: 40vh;
+    width: 40vh;
+}

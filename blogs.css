@@ -1,0 +1,23 @@
+.containerBody{
+    margin: 0 20vw;
+    
+}
+.blogs{
+    border: 1px solid white;
+    padding:2rem;
+}
+.blogs ul{
+    border: none !important;
+    
+}
+.blogs ul li{
+    display: inline-block;
+    
+}
+.moreDetails{
+    float:right;
+}
+.moreDetails>button>a{
+    text-decoration: none !important;
+    color:red;  
+}

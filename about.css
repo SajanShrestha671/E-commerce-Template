@@ -1,0 +1,47 @@
+
+#profile {
+    margin:0 15rem;
+}
+#skillsEvaluate{
+    padding: 2vh 2vw;
+}
+#skillsEvaluate img{
+    border-radius: 50%;
+    height: 10vh;
+}
+#myIntro{
+    padding: 10vh 10vw;
+}
+#myIntro .developer{
+   
+}
+#myIntro form input[type=range]{
+    height: 2vh;
+    width: 20vw;  
+}
+.row-Experience{
+    display: flex;
+}
+.container-Experience{
+    margin: 0;
+}
+.container-Experience h1{
+    text-align: center;
+}
+#rowExperience{
+    margin: 0 10% 0 18% ;
+}
+#rowExperience .col-md-3{
+    border: 1px solid white;
+    padding: 1rem;
+    margin: 2%;
+}
+#rowExperience .col-md-3 img{
+    height: 32vh;
+    width: 15vw;
+    
+    
+}
+#rowExperience .col-md-3 p{
+    text-align: center;
+}

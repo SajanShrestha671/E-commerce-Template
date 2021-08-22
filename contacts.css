@@ -1,0 +1,19 @@
+
+.form{
+    background-color: #f8faf9;
+    opacity: 0.7;
+    color: rgb(12, 12, 12);
+    padding: 3rem;
+    text-align: center ;
+    margin: 5% 30%;
+}
+.form label{
+  width: 6rem;
+  text-align: right;
+}
+.form input{
+    margin: 4px;
+}
+#getStart{
+  margin-left: 6vw;
+}
